@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**tvbycollins/tvbycollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Cloud Consultant and Platform Engineer with over 10 years of experience across 9 industries, helping enterprise and public sector organisations build secure, scalable, and cost-effective infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 💼 Currently consulting for FTSE100 and Public Sector Orgs
+- ☁️ Specialising in AWS, Azure, and hybrid cloud platforms  
+- 🔐 Focused on platform security, DevSecOps, and automation  
+- 👥 Passionate about mentoring engineers and simplifying complex systems  
+- 🧠 Continuously learning and staying ahead in cloud & security trends  
+
+---
+
+### ⚙️ Tech Stack
+
+**Cloud Platforms:**  
+AWS
+Azure/M365
+
+**IaC & Languages:**  
+Terraform · Bash · Python · YAML
+
+**Dev & Security Tools:**  
+Git · GitHub Actions · Azure DevOps · Snyk · Wiz · TFSEC
+
+**Core Systems:**  
+Windows Server · Linux · Networking · Virtualization · Storage  
+
+---
+
+### 📌 What am I working on
+
+- 🔧 Currently builiding an AI Powered Educational Platform for my Cloud Community (Django, HTML, CSS, Javascript, Athropic, Stripe)
+
+
+---
+
+### 📫 Let’s Connect
+
+- 💬 Ask me about Cloud Architecture, DevSecOps, and Platform Security  
+- 📍 Based in the UK, open to remote collaboration  
+
+---
+
+_“Dedicated to building better platforms—not just faster ones.”_
+
