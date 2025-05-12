@@ -17,8 +17,7 @@ I'm a Senior Cloud Consultant and Platform Engineer with over 10 years of experi
 ### ⚙️ Tech Stack
 
 **Cloud Platforms:**  
-AWS
-Azure/M365
+AWS · Azure/M365
 
 **IaC & Languages:**  
 Terraform · Bash · Python · YAML
