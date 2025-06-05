@@ -17,16 +17,16 @@ I'm a Senior Cloud Consultant and Platform Engineer with over 10 years of experi
 ### ⚙️ Tech Stack
 
 **Cloud Platforms:**  
-AWS · Azure/M365
+AWS · Azure
 
 **IaC & Languages:**  
 Terraform · Bash · Python · YAML
 
 **Dev & Security Tools:**  
-Git · GitHub Actions · Azure DevOps · Snyk · Wiz · TFSEC
+Git · GitHub Actions · Azure DevOps · Kubernetes (EKS/AKS) · Docker
 
-**Core Systems:**  
-Windows Server · Linux · Networking · Virtualization · Storage  
+**Security:**  
+Wiz · Snyk · TFSEC · Checkov · AWS Security Hub  
 
 ---
 
