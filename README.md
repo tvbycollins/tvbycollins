@@ -32,7 +32,7 @@ Wiz · Snyk · TFSEC · Checkov · AWS Security Hub
 
 ### 📌 What am I working on
 
-- 🔧 Currently builiding an AI Powered Educational Platform for my Cloud Community (Django, HTML, CSS, Javascript, Athropic, Stripe)
+- 🔧 Currently builiding an AI Powered Recruitment Platform
 
 
 ---
